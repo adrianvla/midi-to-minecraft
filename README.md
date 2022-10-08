@@ -1,7 +1,6 @@
 # midi-to-minecraft
 
 ## Convert midi files to minecraft .mcfunction.
-Depencies: jQuery
 # How to use:
 
 - convert your midi to json at https://tonejs.github.io/Midi/
