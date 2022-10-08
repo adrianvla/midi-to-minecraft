@@ -7,8 +7,8 @@ Depencies: jQuery
 - convert your midi to json at https://tonejs.github.io/Midi/
 - replace the "midi" variable with the json (in the file)  (as an example the midi variable is already a rickroll midi)
 - you can map track numbers to minecraft note block instruments (the instruments variable)
-- the program will write the contents of the mcfunction file in the browser console
 - change "songname" to your song's name
+- the program will write the contents of the mcfunction file in the browser console (run the index.html file with a webserver, and open your browser's console)
 
 How to start the song in minecraft: 
 ```
